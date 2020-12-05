@@ -7,3 +7,5 @@ Only CSS
 Pseudo elements
 
 Pseudo Class
+
+Checked
