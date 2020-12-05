@@ -3,3 +3,7 @@ Pure CSS Menu Responsive
 
 
 Only CSS
+
+Pseudo elements
+
+Pseudo Class
